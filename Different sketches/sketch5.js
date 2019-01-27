@@ -22,5 +22,8 @@ function draw() {
 function mouseClicked() {
 
 		noiseSeed(random(0,1000))
+		r = random()
+		g = random()
+		b = random()
 	
 }
